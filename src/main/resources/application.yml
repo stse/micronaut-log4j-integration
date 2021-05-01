@@ -1,0 +1,8 @@
+micronaut:
+  application:
+    name: MyService
+
+  server:
+    locale-resolution:
+      header: true
+      default-locale: en-US
